@@ -1,0 +1,35 @@
+.header{
+  min-height: 100vh;
+	background-image: url('../img/promo.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.menu {
+		// .menu__list
+		&__list {}
+		// .menu__item
+		&__item {}
+		// .menu__link
+		&__link {}
+}
+.menu-left {
+}
+.logo {
+		// .logo__img
+		&__img {}
+}
+.menu-right {
+}
+.promo {
+		// .promo__inner
+		&__inner {}
+		// .promo__title
+		&__title {}
+		// .promo__subtitle
+		&__subtitle {}
+		// .promo__text
+		&__text {}
+		// .promo__link
+		&__link {}
+}
